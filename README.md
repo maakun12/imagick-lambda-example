@@ -1,0 +1,1 @@
+# imagick-lambda-example
